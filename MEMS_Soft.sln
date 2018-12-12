@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MEMS_Soft", "MEMS_Soft\MEMS_Soft.vcxproj", "{8D5DF2AF-BAC4-4E37-978B-D8FEF4569B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5DF2AF-BAC4-4E37-978B-D8FEF4569B8F}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{8D5DF2AF-BAC4-4E37-978B-D8FEF4569B8F}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{8D5DF2AF-BAC4-4E37-978B-D8FEF4569B8F}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{8D5DF2AF-BAC4-4E37-978B-D8FEF4569B8F}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
